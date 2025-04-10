@@ -1,1 +1,2 @@
-let pablo = ['fat', 'overweight']
+let pablo = ["fat", "overweight"];
+console.log(pablo);
